@@ -1,0 +1,11 @@
+h1 {
+    width: auto;
+    height: 200px;
+    line-height: 200px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+body {
+    margin: 0 15px 15px 15px;
+}
